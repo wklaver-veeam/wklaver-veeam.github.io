@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "# wklaver23.github.io" 
 =======
 # Harbor & Pine starter site
