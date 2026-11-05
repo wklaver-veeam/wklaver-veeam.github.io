@@ -1,4 +1,4 @@
-"# wklaver23.github.io" 
+"# wklaver23.github.io"
 =======
 # Harbor & Pine starter site
 
