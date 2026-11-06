@@ -13,5 +13,6 @@
   }
   setCookie('hp_last_page', encodeURIComponent(location.pathname), 1);
   try { localStorage.setItem('hp_session_start', String(Date.now())); } catch (e) { /* storage blocked */ }
+  try { indexedDB.open('hp_db').onupgradeneeded = e => e.target.result.createObjectStore('hp_prefs'); } catch (e) {}
   if (window.console) { console.log('[hp-analytics] fired on', location.pathname); }
 })();
