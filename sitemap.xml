@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <!-- Site analytics -->
-  <script src="assets/js/analytics.js"></script>
+ <!-- <script src="assets/js/analytics.js"></script>-->
 	
   <!--Auto Blocking -->
-  <script type="text/javascript" src="https://cdn-prod.securiti.ai/consent/auto_blocking/ed91c418-0537-4d55-90cb-bcb3c584dd65/a604147b-4460-45cf-9242-949e4db774b0.js"></script>
+  <!-- <script type="text/javascript" src="https://cdn-prod.securiti.ai/consent/auto_blocking/ed91c418-0537-4d55-90cb-bcb3c584dd65/a604147b-4460-45cf-9242-949e4db774b0.js"></script>-->
 <!-- Replace YOURNAME with your GitHub username before using Sitemap Scanning. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://wklaver-veeam.github.io/</loc></url>
